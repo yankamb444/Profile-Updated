@@ -1,0 +1,10 @@
+body{
+    background-color: lightgray;
+}
+
+.column is-6 right-image{
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
