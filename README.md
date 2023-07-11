@@ -7,7 +7,7 @@ After seeing how my peers used Bulma, they inspired me to try it for myself.
 
 [Click here to see the Bulma template used] (https://bulmatemplates.github.io/bulma-templates/templates/showcase.html)
 
-![Screenshot](./img/profile.jpeg)
+![Screenshot](./img/Web%20capture_10-7-2023_202445_workout-plus-c7901a67a230.herokuapp.com.jpeg)
 
 
 ##License 
